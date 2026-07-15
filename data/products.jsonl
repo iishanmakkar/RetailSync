@@ -1,0 +1,35 @@
+{"product_id": "PROD0001", "product_name": "iPhone 15", "category": "Electronics", "brand": "Apple", "price": 80000.0, "description": "Apple iPhone 15 - Electronics category product."}
+{"product_id": "PROD0002", "product_name": "iPhone 15 Pro", "category": "Electronics", "brand": "Apple", "price": 122500.0, "description": "Apple iPhone 15 Pro - Electronics category product."}
+{"product_id": "PROD0003", "product_name": "Galaxy S25", "category": "Electronics", "brand": "Samsung", "price": 80000.0, "description": "Samsung Galaxy S25 - Electronics category product."}
+{"product_id": "PROD0004", "product_name": "Galaxy A55", "category": "Electronics", "brand": "Samsung", "price": 31500.0, "description": "Samsung Galaxy A55 - Electronics category product."}
+{"product_id": "PROD0005", "product_name": "MacBook Air", "category": "Electronics", "brand": "Apple", "price": 109500.0, "description": "Apple MacBook Air - Electronics category product."}
+{"product_id": "PROD0006", "product_name": "MacBook Pro", "category": "Electronics", "brand": "Apple", "price": 185000.0, "description": "Apple MacBook Pro - Electronics category product."}
+{"product_id": "PROD0007", "product_name": "HP Pavilion", "category": "Electronics", "brand": "HP", "price": 65000.0, "description": "HP HP Pavilion - Electronics category product."}
+{"product_id": "PROD0008", "product_name": "HP Laptop 15", "category": "Electronics", "brand": "HP", "price": 52500.0, "description": "HP HP Laptop 15 - Electronics category product."}
+{"product_id": "PROD0009", "product_name": "Dell XPS 13", "category": "Electronics", "brand": "Dell", "price": 110000.0, "description": "Dell Dell XPS 13 - Electronics category product."}
+{"product_id": "PROD0010", "product_name": "boAt Earbuds", "category": "Electronics", "brand": "boAt", "price": 2350.0, "description": "boAt boAt Earbuds - Electronics category product."}
+{"product_id": "PROD0011", "product_name": "Sony Headphones", "category": "Electronics", "brand": "Sony", "price": 15000.0, "description": "Sony Sony Headphones - Electronics category product."}
+{"product_id": "PROD0012", "product_name": "Nike Air Shoes", "category": "Fashion", "brand": "Nike", "price": 5750.0, "description": "Nike Nike Air Shoes - Fashion category product."}
+{"product_id": "PROD0013", "product_name": "Nike Running Shoes", "category": "Fashion", "brand": "Nike", "price": 4250.0, "description": "Nike Nike Running Shoes - Fashion category product."}
+{"product_id": "PROD0014", "product_name": "Adidas T-Shirt", "category": "Fashion", "brand": "Adidas", "price": 1749.5, "description": null}
+{"product_id": "PROD0015", "product_name": "Adidas Track Pants", "category": "Fashion", "brand": "Adidas", "price": 2350.0, "description": "Adidas Adidas Track Pants - Fashion category product."}
+{"product_id": "PROD0016", "product_name": "Levi's Jeans", "category": "fashion", "brand": "Levi's", "price": 3000.0, "description": "Levi's Levi's Jeans - Fashion category product."}
+{"product_id": "PROD0017", "product_name": "Levi's Jacket", "category": "Fashion", "brand": "Levi's", "price": 4750.0, "description": "Levi's Levi's Jacket - Fashion category product."}
+{"product_id": "PROD0018", "product_name": "Puma Sneakers", "category": "Fashion", "brand": "Puma", "price": 3850.0, "description": "Puma Puma Sneakers - Fashion category product."}
+{"product_id": "PROD0019", "product_name": "Office Chair", "category": "Furniture", "brand": "IKEA", "price": 9000.0, "description": "IKEA Office Chair - Furniture category product."}
+{"product_id": "PROD0020", "product_name": "Study Table", "category": "Furniture", "brand": "IKEA", "price": 11500.0, "description": "IKEA Study Table - Furniture category product."}
+{"product_id": "PROD0021", "product_name": "Sofa Set 3-Seater", "category": "Furniture", "brand": "Urban Ladder", "price": 40000.0, "description": "Urban Ladder Sofa Set 3-Seater - Furniture category product."}
+{"product_id": "PROD0022", "product_name": "Bookshelf", "category": "Furniture", "brand": "IKEA", "price": 6500.0, "description": "IKEA Bookshelf - Furniture category product."}
+{"product_id": "PROD0023", "product_name": "Coffee Maker", "category": "Home Appliances", "brand": "Philips", "price": 3750.0, "description": "Philips Coffee Maker - Home Appliances category product."}
+{"product_id": "PROD0024", "product_name": "Air Fryer", "category": "Home Appliances", "brand": "Philips", "price": 6500.0, "description": "Philips Air Fryer - Home Appliances category product."}
+{"product_id": "PROD0025", "product_name": "Microwave Oven", "category": "Home Appliances", "brand": "LG", "price": 12000.0, "description": "LG Microwave Oven - Home Appliances category product."}
+{"product_id": "PROD0026", "product_name": "Refrigerator 250L", "category": "Home Appliances", "brand": "Samsung", "price": 30000.0, "description": "Samsung Refrigerator 250L - Home Appliances category product."}
+{"product_id": "PROD0027", "product_name": "Washing Machine", "category": "Home Appliances", "brand": "LG", "price": 31000.0, "description": null}
+{"product_id": "PROD0028", "product_name": "Face Wash Combo", "category": "Beauty", "brand": "Nivea", "price": 600.0, "description": "Nivea Face Wash Combo - Beauty category product."}
+{"product_id": "PROD0029", "product_name": "Perfume 100ml", "category": "Beauty", "brand": "Fogg", "price": 1000.0, "description": "Fogg Perfume 100ml - Beauty category product."}
+{"product_id": "PROD0030", "product_name": "Hair Dryer", "category": "Beauty", "brand": "Philips", "price": 1500.0, "description": "Philips Hair Dryer - Beauty category product."}
+{"product_id": "PROD0031", "product_name": "Yoga Mat", "category": "Sports", "brand": "Decathlon", "price": 1000.0, "description": "Decathlon Yoga Mat - Sports category product."}
+{"product_id": "PROD0032", "product_name": "Dumbbell Set 10kg", "category": "Sports", "brand": "Decathlon", "price": 2500.0, "description": "Decathlon Dumbbell Set 10kg - Sports category product."}
+{"product_id": "PROD0033", "product_name": "Cricket Bat", "category": "Sports", "brand": "SG", "price": 2850.0, "description": "SG Cricket Bat - Sports category product."}
+{"product_id": "PROD0034", "product_name": "Novel - Fiction", "category": "Books", "brand": "Penguin", "price": 425.0, "description": "Penguin Novel - Fiction - Books category product."}
+{"product_id": "PROD0035", "product_name": "Self Help Book", "category": "Books", "brand": "HarperCollins", "price": 500.0, "description": "HarperCollins Self Help Book - Books category product."}

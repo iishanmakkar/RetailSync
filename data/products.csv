@@ -1,0 +1,36 @@
+product_id,product_name,category,brand,price,description
+PROD0001,iPhone 15,Electronics,Apple,80000.0,Apple iPhone 15 - Electronics category product.
+PROD0002,iPhone 15 Pro,Electronics,Apple,122500.0,Apple iPhone 15 Pro - Electronics category product.
+PROD0003,Galaxy S25,Electronics,Samsung,80000.0,Samsung Galaxy S25 - Electronics category product.
+PROD0004,Galaxy A55,Electronics,Samsung,31500.0,Samsung Galaxy A55 - Electronics category product.
+PROD0005,MacBook Air,Electronics,Apple,109500.0,Apple MacBook Air - Electronics category product.
+PROD0006,MacBook Pro,Electronics,Apple,185000.0,Apple MacBook Pro - Electronics category product.
+PROD0007,HP Pavilion,Electronics,HP,65000.0,HP HP Pavilion - Electronics category product.
+PROD0008,HP Laptop 15,Electronics,HP,52500.0,HP HP Laptop 15 - Electronics category product.
+PROD0009,Dell XPS 13,Electronics,Dell,110000.0,Dell Dell XPS 13 - Electronics category product.
+PROD0010,boAt Earbuds,Electronics,boAt,2350.0,boAt boAt Earbuds - Electronics category product.
+PROD0011,Sony Headphones,Electronics,Sony,15000.0,Sony Sony Headphones - Electronics category product.
+PROD0012,Nike Air Shoes,Fashion,Nike,5750.0,Nike Nike Air Shoes - Fashion category product.
+PROD0013,Nike Running Shoes,Fashion,Nike,4250.0,Nike Nike Running Shoes - Fashion category product.
+PROD0014,Adidas T-Shirt,Fashion,Adidas,1749.5,
+PROD0015,Adidas Track Pants,Fashion,Adidas,2350.0,Adidas Adidas Track Pants - Fashion category product.
+PROD0016,Levi's Jeans,fashion,Levi's,3000.0,Levi's Levi's Jeans - Fashion category product.
+PROD0017,Levi's Jacket,Fashion,Levi's,4750.0,Levi's Levi's Jacket - Fashion category product.
+PROD0018,Puma Sneakers,Fashion,Puma,3850.0,Puma Puma Sneakers - Fashion category product.
+PROD0019,Office Chair,Furniture,IKEA,9000.0,IKEA Office Chair - Furniture category product.
+PROD0020,Study Table,Furniture,IKEA,11500.0,IKEA Study Table - Furniture category product.
+PROD0021,Sofa Set 3-Seater,Furniture,Urban Ladder,40000.0,Urban Ladder Sofa Set 3-Seater - Furniture category product.
+PROD0022,Bookshelf,Furniture,IKEA,6500.0,IKEA Bookshelf - Furniture category product.
+PROD0023,Coffee Maker,Home Appliances,Philips,3750.0,Philips Coffee Maker - Home Appliances category product.
+PROD0024,Air Fryer,Home Appliances,Philips,6500.0,Philips Air Fryer - Home Appliances category product.
+PROD0025,Microwave Oven,Home Appliances,LG,12000.0,LG Microwave Oven - Home Appliances category product.
+PROD0026,Refrigerator 250L,Home Appliances,Samsung,30000.0,Samsung Refrigerator 250L - Home Appliances category product.
+PROD0027,Washing Machine,Home Appliances,LG,31000.0,
+PROD0028,Face Wash Combo,Beauty,Nivea,600.0,Nivea Face Wash Combo - Beauty category product.
+PROD0029,Perfume 100ml,Beauty,Fogg,1000.0,Fogg Perfume 100ml - Beauty category product.
+PROD0030,Hair Dryer,Beauty,Philips,1500.0,Philips Hair Dryer - Beauty category product.
+PROD0031,Yoga Mat,Sports,Decathlon,1000.0,Decathlon Yoga Mat - Sports category product.
+PROD0032,Dumbbell Set 10kg,Sports,Decathlon,2500.0,Decathlon Dumbbell Set 10kg - Sports category product.
+PROD0033,Cricket Bat,Sports,SG,2850.0,SG Cricket Bat - Sports category product.
+PROD0034,Novel - Fiction,Books,Penguin,425.0,Penguin Novel - Fiction - Books category product.
+PROD0035,Self Help Book,Books,HarperCollins,500.0,HarperCollins Self Help Book - Books category product.
