@@ -90,3 +90,12 @@ MIT-style demo code — reuse as you like for learning and demos.
 Enjoy exploring the pipeline! If you want, I can:
 - Add a `requirements.txt` and a small `run_local.sh` helper
 - Convert notebooks to runnable scripts for non-Databricks environments
+
+## Documentation images
+The `docs/` folder contains the architecture diagram, a Kafka topics screenshot, and a producer summary screenshot.
+
+- Architecture diagram: [RetailSync/docs/architecture.png](docs/architecture.png)
+- Kafka topics dashboard: [RetailSync/docs/kafka_topics.png](docs/kafka_topics.png)
+- Kafka producer summary: [RetailSync/docs/kafka_producer_summary.png](docs/kafka_producer_summary.png)
+
+Place the actual PNG files in the `docs/` directory (if you added them locally they will appear in the repo).
